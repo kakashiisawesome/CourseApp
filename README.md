@@ -1,5 +1,6 @@
 # CourseApp
 
+- To run the app run `python manage.py runserver`
 - A django rest api for a Course learning App where users and educators can sign up and login.  
 - A normal user can get the list of all courses and enroll/delist from the courses, and view his/her enrolled courses  
 - An educator can list the courses, create a course and delete a course. The educator can also list all the users enrolled into a course  
